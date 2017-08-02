@@ -1,0 +1,9 @@
+title: Yao Zhou's Homepage
+url: ""
+baseurl: "."
+
+# markdown: kramdown
+
+sass:
+    style: compressed
+    sass_dir: _sass
