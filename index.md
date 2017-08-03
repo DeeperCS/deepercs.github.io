@@ -19,8 +19,9 @@ My primary research areas are *deep neural networks(DNNs) and its applications* 
 
 1. **Predicting movie box-office revenues using deep neural networks**[J]  
 *Yao Zhou*, Lei Zhang, Zhang Yi  
-Neural Computing and Applications (IF:20505)  
+Neural Computing and Applicationsi, 2017 (IF:20505)  
 [DOI:10.1007/s00521-017-3162-x](https://doi.org/10.1007/s00521-017-3162-x)
+
 2. **Fast string matching algorithms for very short patterns**[C]  
 *Yao Zhou*, Hongbo Fan, Lijun Liu, Qingsong Huang   
 IET International Conference on Information Science and Control Engineering 2012, pp1.64  
