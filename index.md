@@ -22,7 +22,7 @@ Networks, Knowledge-Based Systems (2017),
 1. **Cell Mitosis Detection using Deep Neural Networks**[J]  
 *Yao Zhou*, Hua Mao, Zhang Yi  
 Knowledge-Based Systems, 2017 (IF:4.529)  
-[DOI:10.1016/j.knosys.2017.08.016](https://doi: 10.1016/j.knosys.2017.08.016)
+[DOI:10.1016/j.knosys.2017.08.016](https://doi.org/10.1016/j.knosys.2017.08.016)
 
 2. **Predicting movie box-office revenues using deep neural networks**[J]  
 *Yao Zhou*, Lei Zhang, Zhang Yi  
