@@ -17,8 +17,6 @@ My primary research areas are *deep neural networks(DNNs) and its applications* 
 
 ## Publications
 
-Yao Zhou, Hua Mao, Zhang Yi, Cell Mitosis Detection using Deep Neural
-Networks, Knowledge-Based Systems (2017), 
 1. **Cell Mitosis Detection using Deep Neural Networks**[J]  
 *Yao Zhou*, Hua Mao, Zhang Yi  
 Knowledge-Based Systems, 2017 (IF:4.529)  
