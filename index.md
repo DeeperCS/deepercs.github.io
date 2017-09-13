@@ -24,7 +24,7 @@ Knowledge-Based Systems, 2017 (IF:4.529)
 
 2. **Predicting movie box-office revenues using deep neural networks**[J]  
 *Yao Zhou*, Lei Zhang, Zhang Yi  
-Neural Computing and Applications, 2017 (IF:2.0505)  
+Neural Computing and Applications, 2017 (IF:2.505)  
 [DOI:10.1007/s00521-017-3162-x](https://doi.org/10.1007/s00521-017-3162-x)
 
 3. **Fast string matching algorithms for very short patterns**[C]  
