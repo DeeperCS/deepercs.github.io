@@ -1,8 +1,5 @@
 - name: "Contact"
   link: "contact.html"
 
-- name: "Resume"
-  link: "resume.pdf"
-
 - name: "About"
   link: "./"
