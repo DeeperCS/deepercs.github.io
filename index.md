@@ -8,7 +8,7 @@ layout: default
 
 Hi, welcome to my academic homepage! I am Yao Zhou, a Ph.D student working in [Machine Intelligence Lab](http://www.machineilab.org), [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](http://www.scu.edu.cn). My research advisor is [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/).
 
-Currently, I'm a joint Ph.D student studying in [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary Yen](http://isc.okstate.edu/) and awarded by China Scholarship Council for a period of 18 months.
+Currently, I'm a joint Ph.D student studying in [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary Yen](http://isc.okstate.edu/) and sponsored by China Scholarship Council for a period of 18 months.
 
 ## Research Interest
 
