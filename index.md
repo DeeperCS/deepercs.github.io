@@ -33,6 +33,7 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 ## Academic Activities
+* Reviewer of Multimedia Tools and Applications
 * Reviewer of International Journal of Computational Science and Engineering
 * Reviewer of 2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)
 * Reviewer of 2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)
@@ -40,6 +41,12 @@ IET International Conference on Information Science and Control Engineering 2012
 * Reviewer of International Conference on Frontier of Computer Science and Technology (FCST 2016)
 
 ## Others
+* National Scholarship, Ministry of Education of China, 2017
+
+
+* Chinese Government Scholarship, China Scholarship Council, 2017
+
+
 * Volunteer, IEEE Teacher In-Service Program (TISP) Training Workshop ([Page 5](http://www.ieeer10.org/wp-content/uploads/2017/01/R10_eNewsletter-December2016.pdf))  
 6-7 Aug 2016, Bangkok, Thailand  
 
