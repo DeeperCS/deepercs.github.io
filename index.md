@@ -33,12 +33,13 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 ## Academic Activities
-* Reviewer of Multimedia Tools and Applications
-* Reviewer of International Journal of Computational Science and Engineering
-* Reviewer of 2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)
-* Reviewer of 2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)
-* Reviewer of The Third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICYCSEE 2017)
-* Reviewer of International Conference on Frontier of Computer Science and Technology (FCST 2016)
+* Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
+* Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
+* Reviewer of [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse)
+* Reviewer of [2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)](http://www.cec2017.org/)
+* Reviewer of [2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)](http://www.wcci2016.org/)
+* Reviewer of [The Third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICYCSEE 2017)](http://www.icpcsee.org/)
+* Reviewer of [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990)
 
 ## Others
 * National Scholarship, Ministry of Education of China, 2017
