@@ -33,6 +33,7 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 ## Academic Activities
+* Reviewer of [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 * Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
 * Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
 * Reviewer of [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse)
