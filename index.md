@@ -34,15 +34,21 @@ IET International Conference on Information Science and Control Engineering 2012
 
 ## Academic Activities
 * Reviewer of [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
+* Reviewer of [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)
 * Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
 * Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
 * Reviewer of [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse)
+* Reviewer of [2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)](http://www.ecomp.poli.br/~wcci2018/)
 * Reviewer of [2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)](http://www.cec2017.org/)
 * Reviewer of [2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)](http://www.wcci2016.org/)
 * Reviewer of [The Third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICYCSEE 2017)](http://www.icpcsee.org/)
 * Reviewer of [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990)
 
 ## Others
+* IEEE Computational Intelligence Society Conference Travel Grant, 2018
+
+* IEEE Chengdu Section Excellent Student Paper Award, 2017
+
 * National Scholarship, Ministry of Education of China, 2017
 
 
