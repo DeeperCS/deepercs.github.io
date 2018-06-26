@@ -27,8 +27,8 @@ Knowledge-Based Systems, 2017 (IF:4.396)
 Neural Computing and Applications, 2017 (IF:4.213)  
 [DOI:10.1007/s00521-017-3162-x](https://doi.org/10.1007/s00521-017-3162-x)
 
-3. **Evolving deep neural networks for movie box-office revenues prediction**[C]  
-*Yao Zhou*, Gary G. Yen
+3. **Evolving Deep Neural Networks for Movie Box-office Revenues Prediction**[C]  
+*Yao Zhou*, Gary G. Yen  
 2018 Congress on Evolutionary Computation (CEC), **Accepted**
 
 4. **Fast string matching algorithms for very short patterns**[C]  
