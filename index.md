@@ -8,7 +8,7 @@ layout: default
 
 Hi, welcome to my academic homepage! I am Yao Zhou, a Ph.D student working in [Machine Intelligence Lab](http://www.machineilab.org), [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](http://www.scu.edu.cn). My research advisor is [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/).
 
-Currently, I'm a joint Ph.D student studying in [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary Yen](http://isc.okstate.edu/) and sponsored by China Scholarship Council for a period of 18 months.
+Currently, I'm a joint Ph.D student studying in [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary G. Yen](http://isc.okstate.edu/) and sponsored by China Scholarship Council for a period of 18 months.
 
 ## Research Interest
 
@@ -19,15 +19,19 @@ My primary research areas are *deep neural networks (DNNs) and its applications*
 
 1. **Cell Mitosis Detection using Deep Neural Networks**[J]  
 *Yao Zhou*, Hua Mao, Zhang Yi  
-Knowledge-Based Systems, 2017 (IF:4.529)  
+Knowledge-Based Systems, 2017 (IF:4.396)  
 [DOI:10.1016/j.knosys.2017.08.016](https://doi.org/10.1016/j.knosys.2017.08.016)
 
 2. **Predicting movie box-office revenues using deep neural networks**[J]  
 *Yao Zhou*, Lei Zhang, Zhang Yi  
-Neural Computing and Applications, 2017 (IF:2.505)  
+Neural Computing and Applications, 2017 (IF:4.213)  
 [DOI:10.1007/s00521-017-3162-x](https://doi.org/10.1007/s00521-017-3162-x)
 
-3. **Fast string matching algorithms for very short patterns**[C]  
+3. **Evolving deep neural networks for movie box-office revenues prediction**[C]  
+*Yao Zhou*, Gary G. Yen
+2018 Congress on Evolutionary Computation (CEC), **Accepted**
+
+4. **Fast string matching algorithms for very short patterns**[C]  
 *Yao Zhou*, Hongbo Fan, Lijun Liu, Qingsong Huang   
 IET International Conference on Information Science and Control Engineering 2012, pp1.64  
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
@@ -45,15 +49,15 @@ IET International Conference on Information Science and Control Engineering 2012
 * Reviewer of [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990)
 
 ## Others
+* Invited session chair at 2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)
+
 * IEEE Computational Intelligence Society Conference Travel Grant, 2018
 
 * IEEE Chengdu Section Excellent Student Paper Award, 2017
 
 * National Scholarship, Ministry of Education of China, 2017
 
-
 * Chinese Government Scholarship, China Scholarship Council, 2017
-
 
 * Volunteer, IEEE Teacher In-Service Program (TISP) Training Workshop ([Page 5](http://www.ieeer10.org/wp-content/uploads/2017/01/R10_eNewsletter-December2016.pdf))  
 6-7 Aug 2016, Bangkok, Thailand  
