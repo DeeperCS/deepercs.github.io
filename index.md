@@ -42,6 +42,7 @@ IET International Conference on Information Science and Control Engineering 2012
 * Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
 * Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
 * Reviewer of [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse)
+* Reviewer of [The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018)](http://cse.seu.edu.cn/pricai18/)
 * Reviewer of [2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)](http://www.ecomp.poli.br/~wcci2018/)
 * Reviewer of [2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)](http://www.cec2017.org/)
 * Reviewer of [2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)](http://www.wcci2016.org/)
