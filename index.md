@@ -29,7 +29,7 @@ Neural Computing and Applications, 2017 (IF:4.213)
 
 3. **Evolving Deep Neural Networks for Movie Box-office Revenues Prediction**[C]  
 *Yao Zhou*, Gary G. Yen  
-2018 Congress on Evolutionary Computation (CEC 2018), **Accepted**
+2018 Congress on Evolutionary Computation (CEC 2018)
 
 4. **Fast string matching algorithms for very short patterns**[C]  
 *Yao Zhou*, Hongbo Fan, Lijun Liu, Qingsong Huang   
@@ -37,6 +37,7 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 ## Academic Activities
+* Reviewer of [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
 * Reviewer of [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 * Reviewer of [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)
 * Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
@@ -52,7 +53,7 @@ IET International Conference on Information Science and Control Engineering 2012
 ## Others
 * Invited session chair at 2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)
 
-* IEEE Computational Intelligence Society Conference Travel Grant, 2018
+* IEEE Computational Intelligence Society (CIS) Conference Travel Grant, 2018
 
 * IEEE Chengdu Section Excellent Student Paper Award, 2017
 
