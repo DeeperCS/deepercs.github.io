@@ -12,7 +12,7 @@ Currently, I'm a joint Ph.D student studying in [Oklahoma State University](http
 
 ## Research Interest
 
-My primary research areas are *deep neural networks (DNNs), evolutionary computation and their applications*. I'm particularly interested in *biomedical image and intellectual property (IP) data analysis*.
+My primary research areas are *deep neural networks (DNNs), evolutionary computation (EC) and their applications*. I'm particularly interested in *biomedical image and intellectual property (IP) data analysis*.
 
 
 ## Publications
