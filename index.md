@@ -52,7 +52,7 @@ IET International Conference on Information Science and Control Engineering 2012
 * Reviewer of [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990)
 
 ## Others
-* Invited Session Chair, "Biometrics, Bioinformatics and Biomedical Applications I" at 2018 IEEE Congress on Evolutionary Computation (CEC 2018), Rio de Janeiro, Brizal
+* Invited Session Chair, "Biometrics, Bioinformatics and Biomedical Applications I" at 2018 IEEE Congress on Evolutionary Computation (CEC 2018), Rio de Janeiro, Brazil
 
 * IEEE Computational Intelligence Society (CIS) Conference Travel Grant, 2018
 
