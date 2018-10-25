@@ -30,6 +30,7 @@ Neural Computing and Applications, 2017 (IF:4.213)
 3. **Evolving Deep Neural Networks for Movie Box-office Revenues Prediction**[C]  
 *Yao Zhou*, Gary G. Yen  
 2018 IEEE Congress on Evolutionary Computation (CEC 2018)
+[DOI: 10.1109/CEC.2018.8477691](https://DOI: 10.1109/CEC.2018.8477691)
 
 4. **Fast string matching algorithms for very short patterns**[C]  
 *Yao Zhou*, Hongbo Fan, Lijun Liu, Qingsong Huang   
