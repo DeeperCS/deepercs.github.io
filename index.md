@@ -8,7 +8,7 @@ layout: default
 
 Hi, welcome to my academic homepage! I'm Yao Zhou, a Ph.D student working in [Machine Intelligence Lab](http://www.machineilab.org), [College of Computer Science](http://cs.scu.edu.cn), [Sichuan University](http://www.scu.edu.cn). My research advisor is [Prof. Yi Zhang](http://www.machineilab.org/users/zhangyi/).
 
-Currently, I'm a joint Ph.D student studying in [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary G. Yen](http://isc.okstate.edu/) and sponsored by China Scholarship Council for a period of 18 months.
+Currently, I'm a joint Ph.D student studying at [Oklahoma State University](https://go.okstate.edu/), US, under the supervision of [Prof. Gary G. Yen](http://isc.okstate.edu/) and sponsored by China Scholarship Council for a period of 18 months.
 
 ## Research Interest
 
@@ -29,7 +29,7 @@ Neural Computing and Applications, 2017 (IF:4.213)
 
 3. **Evolving Deep Neural Networks for Movie Box-office Revenues Prediction**[C]  
 *Yao Zhou*, Gary G. Yen  
-2018 IEEE Congress on Evolutionary Computation (CEC 2018)  
+IEEE Congress on Evolutionary Computation (CEC 2018), 8-13 July, 2018, Rio de Janeiro, Brazil  
 [DOI: 10.1109/CEC.2018.8477691](https://doi.org/10.1109/CEC.2018.8477691)
 
 4. **Fast string matching algorithms for very short patterns**[C]  
@@ -37,23 +37,26 @@ Neural Computing and Applications, 2017 (IF:4.213)
 IET International Conference on Information Science and Control Engineering 2012, pp1.64  
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
-## Academic Activities
-* Reviewer of [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235)
-* Reviewer of [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
-* Reviewer of [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989)
-* Reviewer of [PLOS ONE](http://journals.plos.org/plosone/)
-* Reviewer of [Multimedia Tools and Applications](https://link.springer.com/journal/11042)
-* Reviewer of [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse)
-* Reviewer of [2018 IEEE Symposium Series on Computational Intelligence (SSCI 2018)](http://ieee-ssci2018.org)
-* Reviewer of [The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018)](http://cse.seu.edu.cn/pricai18/)
-* Reviewer of [2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)](http://www.ecomp.poli.br/~wcci2018/)
-* Reviewer of [2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)](http://www.cec2017.org/)
-* Reviewer of [2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)](http://www.wcci2016.org/)
-* Reviewer of [The Third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICYCSEE 2017)](http://www.icpcsee.org/)
-* Reviewer of [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990)
+## Academic Service
+* [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), Reviewer
+* [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), Reviewer
+* [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989), Reviewer
+* [PLOS ONE](http://journals.plos.org/plosone/), Reviewer
+* [Multimedia Tools and Applications](https://link.springer.com/journal/11042), Reviewer
+* [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse), Reviewer
+* [The 31st Australasian Joint Conference on Artificial Intelligence (AI 2018)](https://ecs.victoria.ac.nz/Events/AI2018/), Reviewer
+* [2018 IEEE Symposium Series on Computational Intelligence (SSCI 2018)](http://ieee-ssci2018.org), Reviewer
+* [The 15th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2018)](http://cse.seu.edu.cn/pricai18/), Reviewer
+* [2019 IEEE Congress on Evolutionary Computation (IEEE CEC
+2019)](http://www.cec2019.org), Reviewer
+* [2018 IEEE Congress on Evolutionary Computation (IEEE CEC 2018)](http://www.ecomp.poli.br/~wcci2018/), Reviewer
+* [2017 IEEE Congress on Evolutionary Computation (IEEE CEC 2017)](http://www.cec2017.org/), Reviewer
+* [2016 IEEE Congress on Evolutionary Computation (IEEE CEC 2016)](http://www.wcci2016.org/), Reviewer
+* [The Third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICYCSEE 2017)](http://www.icpcsee.org/), Reviewer
+* [International Conference on Frontier of Computer Science and Technology (FCST 2016)](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=56691&copyownerid=81990), Reviewer
 
 ## Others
-* Invited Session Chair, "Biometrics, Bioinformatics and Biomedical Applications I" at 2018 IEEE Congress on Evolutionary Computation (CEC 2018), Rio de Janeiro, Brazil
+* Invited Session Chair, "Biometrics, Bioinformatics and Biomedical Applications I" at 2018 IEEE Congress on Evolutionary Computation (CEC 2018), 8-13 July, 2018, Rio de Janeiro, Brazil
 
 * IEEE Computational Intelligence Society (CIS) Conference Travel Grant, 2018
 
