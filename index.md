@@ -41,6 +41,7 @@ IET International Conference on Information Science and Control Engineering 2012
 * [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), Reviewer
 * [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), Reviewer
 * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989), Reviewer
+* [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), Reviewer
 * [PLOS ONE](http://journals.plos.org/plosone/), Reviewer
 * [Multimedia Tools and Applications](https://link.springer.com/journal/11042), Reviewer
 * [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse), Reviewer
