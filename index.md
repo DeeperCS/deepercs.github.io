@@ -38,11 +38,13 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 ## Academic Service
-* [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), Reviewer
 * [IEEE Transactions on Cybernetics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), Reviewer
+* [IEEE Transactions on Evolutionary Computation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235), Reviewer
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), Reviewer
 * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989), Reviewer
 * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), Reviewer
 * [PLOS ONE](http://journals.plos.org/plosone/), Reviewer
+* [Journal of Medical Systems](https://link.springer.com/journal/10916), Reviewer
 * [Multimedia Tools and Applications](https://link.springer.com/journal/11042), Reviewer
 * [International Journal of Computational Science and Engineering](http://www.inderscience.com/jhome.php?jcode=ijcse), Reviewer
 * [The 31st Australasian Joint Conference on Artificial Intelligence (AI 2018)](https://ecs.victoria.ac.nz/Events/AI2018/), Reviewer
