@@ -17,6 +17,12 @@ My primary research areas are *deep neural networks (DNNs), evolutionary computa
 
 ## Publications
 
+1. **A Knee-Guided Evolutionary Algorithm for Compressing Deep Neural Networks**[J]  
+*Yao Zhou*, Gary G. Yen, Zhang Yi
+IEEE Transactions on Cybernetics, 2019 ( Early Access )
+[DOI:10.1109/TCYB.2019.2928174](https://ieeexplore.ieee.org/document/8781874)
+
+
 1. **Cell Mitosis Detection using Deep Neural Networks**[J]  
 *Yao Zhou*, Hua Mao, Zhang Yi  
 Knowledge-Based Systems, 2017 (IF:4.396)  
@@ -43,6 +49,7 @@ IET International Conference on Information Science and Control Engineering 2012
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), Reviewer
 * [IEEE Transactions on Cognitive and Developmental Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989), Reviewer
 * [IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), Reviewer
+* [Information Fusion](https://www.journals.elsevier.com/information-fusion/), Reviewer
 * [PLOS ONE](http://journals.plos.org/plosone/), Reviewer
 * [Journal of Medical Systems](https://link.springer.com/journal/10916), Reviewer
 * [Multimedia Tools and Applications](https://link.springer.com/journal/11042), Reviewer
