@@ -22,6 +22,14 @@ My primary research areas are *deep neural networks (DNNs), evolutionary computa
 IEEE Transactions on Artificial Intelligence, 2022 ()
 [DOI:10.1109/TAI.2021.3134600](https://ieeexplore.ieee.org/abstract/document/9648029/)
 
+
+
+2. **Evolutionary Neural Architecture Search for Automatic Esophageal Lesion Identification and Segmentation**[J]  
+*Yao Zhou*, Xianglei Yuan, Xiaozhi Zhang, Wei Liu, Yu Wu, Gary G. Yen, Bing Hu, Zhang Yi
+IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF:14.255)    
+[DOI:10.1109/TNNLS.2021.3059529](https://ieeexplore.ieee.org/document/9364876)
+
+
 2. **Evolutionary Shallowing Deep Neural Networks at Block Levels**[J]  
 *Yao Zhou*, Gary G. Yen, Zhang Yi  
 IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF:14.255)    
