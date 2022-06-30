@@ -58,7 +58,7 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 9. **Artificial intelligence for diagnosing gastric lesions under white-light endoscopy**[C]  
-Xiang-Lei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu  
+Xianglei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu  
 Surgical Endoscopy, 2022, Accepted  
 [DOI:](http://)
 
