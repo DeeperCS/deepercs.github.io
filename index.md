@@ -18,17 +18,9 @@ My primary research areas are *deep neural networks (DNNs), evolutionary computa
 ## Publications
 
 1. **Evolutionary Neural Architecture Search for Automatic Esophageal Lesion Identification and Segmentation**[J]  
-*Yao Zhou*, Xianglei Yuan, etl
-IEEE Transactions on Artificial Intelligence, 2022 ()
+*Yao Zhou*, Xianglei Yuan, Xiaozhi Zhang, Wei Liu, Yu Wu, Gary G. Yen, Bing Hu, Zhang Yi  
+IEEE Transactions on Artificial Intelligence, 2022
 [DOI:10.1109/TAI.2021.3134600](https://ieeexplore.ieee.org/abstract/document/9648029/)
-
-
-
-2. **Evolutionary Neural Architecture Search for Automatic Esophageal Lesion Identification and Segmentation**[J]  
-*Yao Zhou*, Xianglei Yuan, Xiaozhi Zhang, Wei Liu, Yu Wu, Gary G. Yen, Bing Hu, Zhang Yi
-IEEE Transactions on Neural Networks and Learning Systems, 2021 (IF:14.255)    
-[DOI:10.1109/TNNLS.2021.3059529](https://ieeexplore.ieee.org/document/9364876)
-
 
 2. **Evolutionary Shallowing Deep Neural Networks at Block Levels**[J]  
 *Yao Zhou*, Gary G. Yen, Zhang Yi  
@@ -62,17 +54,17 @@ IEEE Congress on Evolutionary Computation (CEC 2018), 8-13 July, 2018, Rio de Ja
 
 8. **Fast string matching algorithms for very short patterns**[C]  
 *Yao Zhou*, Hongbo Fan, Lijun Liu, Qingsong Huang   
-IET International Conference on Information Science and Control Engineering 2012
+IET International Conference on Information Science and Control Engineering 2012  
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 9. **Artificial intelligence for diagnosing gastric lesions under white-light endoscopy**[C]  
-Xiang-Lei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu
-Surgical Endoscopy, 2022, Accepted
+Xiang-Lei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu  
+Surgical Endoscopy, 2022, Accepted  
 [DOI:](http://)
 
 10. **Artificial intelligence-based assessments of colonoscopic withdrawal technique: a new method for measuring and enhancing the quality of fold examination**[C]  
-Wei Liu, Yu Wu, Xianglei Yuan, Jingyu Zhang, *Yao Zhou*, Wanhong Zhang, Peipei Zhu, Zhang Tao, Long He, Bing Hu, Zhang Yi
-Endoscopy, 2022.
+Wei Liu, Yu Wu, Xianglei Yuan, Jingyu Zhang, *Yao Zhou*, Wanhong Zhang, Peipei Zhu, Zhang Tao, Long He, Bing Hu, Zhang Yi  
+Endoscopy, 2022.  
 [DOI:10.1055/a-1799-8297](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1799-8297)
 
 ## Teaching
