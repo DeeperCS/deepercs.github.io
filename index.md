@@ -58,12 +58,12 @@ IET International Conference on Information Science and Control Engineering 2012
 [DOI:10.1049/cp.2012.2321](http://dx.doi.org/10.1049/cp.2012.2321)
 
 9. **Artificial intelligence for diagnosing gastric lesions under white-light endoscopy**[C]  
-Xiang-Lei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu.
+Xiang-Lei Yuan, *Yao Zhou (co-first author)*, Wei Liu, Qi Luo, Xian-Hui Zeng, Zhang Yi, Bing Hu
 Surgical Endoscopy, 2022, Accepted
-[DOI:_____](http://_____)
+[DOI:](http://)
 
 10. **Artificial intelligence-based assessments of colonoscopic withdrawal technique: a new method for measuring and enhancing the quality of fold examination**[C]  
-Wei Liu, Yu Wu, Xianglei Yuan, Jingyu Zhang, *Yao Zhou*, Wanhong Zhang, Peipei Zhu, Zhang Tao, Long He, Bing Hu, and Zhang Yi
+Wei Liu, Yu Wu, Xianglei Yuan, Jingyu Zhang, *Yao Zhou*, Wanhong Zhang, Peipei Zhu, Zhang Tao, Long He, Bing Hu, Zhang Yi
 Endoscopy, 2022.
 [DOI:10.1055/a-1799-8297](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1799-8297)
 
