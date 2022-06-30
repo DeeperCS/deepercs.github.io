@@ -68,7 +68,7 @@ Endoscopy, 2022.
 [DOI:10.1055/a-1799-8297](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1799-8297)
 
 ## Teaching
-* GPU programming (Spring 2022, Spring 2021)
+* GPU Programming (Introduction to CUDA C) (Spring 2022, Spring 2021)
 * Probability and Statistics (Spring 2022)
 
 
